@@ -26,7 +26,7 @@ export default {
     clock_position: "center",
     clock_background_color: "",
     //original URL: http://good-wallpapers.com/pictures/6357/Gray%20Comb%20Texture.jpg
-    clock_background_image: "https://i.imgur.com/9YKVj.jpg",
+    clock_background_image: "https://i.imgur.com/GLk9IXx.jpg",
     clock_shadow: "0 1px 1px #000000",
     clock_font: "Syncopate",
     clock_size: "480",
@@ -36,7 +36,7 @@ export default {
     clock_position: "center",
     clock_background_color: "",
     //original URL: http://good-wallpapers.com/pictures/6357/Gray%20Comb%20Texture.jpg
-    clock_background_image: "https://i.imgur.com/9YKVj.jpg",
+    clock_background_image: "https://i.imgur.com/GLk9IXx.jpg",
     clock_shadow: "0 1px 1px #000000",
     clock_font: "Knewave",
     clock_size: "480",
