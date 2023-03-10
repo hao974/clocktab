@@ -21,11 +21,17 @@
 //   - Nice paintaing a la Eugene von Guerard
 //     - https://artsandculture.google.com/asset/5QGf_h6Dl58qhQ
 
+import steelBg from "../../../backgrounds/steel.jpg";
+
 export default {
   steel: {
     clock_position: "center",
     clock_background_color: "",
-    //original URL: http://good-wallpapers.com/pictures/6357/Gray%20Comb%20Texture.jpg
+    // original URL: https://good-wallpapers.com/pictures/6357/gray%20comb%20texture.jpg
+    // imgur re-upload: https://i.imgur.com/GLk9IXx.jpg
+    /* TODO
+    clock_background_image: steelBg,
+    */
     clock_background_image: "https://i.imgur.com/GLk9IXx.jpg",
     clock_shadow: "0 1px 1px #000000",
     clock_font: "Syncopate",
@@ -35,7 +41,11 @@ export default {
   steel_gold: {
     clock_position: "center",
     clock_background_color: "",
-    //original URL: http://good-wallpapers.com/pictures/6357/Gray%20Comb%20Texture.jpg
+    // original URL: https://good-wallpapers.com/pictures/6357/gray%20comb%20texture.jpg
+    // imgur re-upload: https://i.imgur.com/GLk9IXx.jpg
+    /* TODO
+    clock_background_image: steelBg,
+    */
     clock_background_image: "https://i.imgur.com/GLk9IXx.jpg",
     clock_shadow: "0 1px 1px #000000",
     clock_font: "Knewave",
